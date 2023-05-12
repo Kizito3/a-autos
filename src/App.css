@@ -1,0 +1,46 @@
+.btn1{
+  background-color: #2C3C5B;
+}
+
+.btn2{
+  border-right:#2C3C5B 3px solid;
+  padding-right: 15px;
+}
+
+/* .bar{
+  display: none;
+}
+@media (max-width:768px) {
+  .nav1{
+    display: none;
+  }
+}
+.nav2{
+  display: none;
+} */
+
+/* .stylenav{
+  position:absolute;
+  top: 0;
+  height: 100vh;
+  left: -100%;
+  transition: 500ms ease-in;
+} */
+button{
+  border: none;
+  background: none;
+  font-size: 20px;
+}
+
+/* .mobile-menu-icon{
+  display: none;
+  z-index: 10;
+} */
+
+@media (max-width: 768px) {
+  .mobile-menu-icon{
+    display: block;
+    right: 20px;
+  }
+  
+}
